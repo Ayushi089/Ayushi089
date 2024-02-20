@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about ** . REACT,JAVACSRIPT,CSS,HTML**
+- 💬 Ask me about ** . ,SQL, REACT, JAVACSRIPT, CSS, HTML**
 
 - 📫 How to reach me **ayushiagnihotri89@gmail.com**
 
